@@ -1,0 +1,16 @@
+raw_directory: C:\
+segments_directory: C:\
+work_directory: C:\
+ready_directory: C:\
+audio: C:\
+
+duration: 2
+bpm: null
+keep_work_dir: false
+offset: 0
+force: null
+segment_duration: 2
+segment_start: 0
+segment_end: 0
+force_segment: false
+audio_mode: "audio"
